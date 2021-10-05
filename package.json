@@ -4,7 +4,8 @@
   "description": "citas veterinaria ",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon.js"
+    "start": "node app",
+    "dev": "nodemon app"
   },
   "type": "module",
   "author": "Andres B",
